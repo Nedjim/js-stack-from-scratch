@@ -4,6 +4,7 @@ module.exports = {
         "plugin:flowtype/recommended"
     ],
     "env": {
+        "browser": true,
         "jest": true
     },
     "rules": {

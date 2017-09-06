@@ -12,3 +12,5 @@
 - Express
 - Nodemon
 - PM2
+- Webpack
+- React
