@@ -8,5 +8,7 @@
 - Jest
 - Husky
 
-## Dev
+## Developpement
 - Express
+- Nodemon
+- PM2
