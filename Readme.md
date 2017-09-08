@@ -14,3 +14,4 @@
 - PM2
 - Webpack
 - React
+- HMR
