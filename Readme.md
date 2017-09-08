@@ -15,3 +15,9 @@
 - Webpack
 - React
 - HMR
+
+## Execution
+```
+$ yarn start
+$ yarn dev:wds
+```
