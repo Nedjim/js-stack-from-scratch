@@ -15,6 +15,8 @@
 - Webpack
 - React
 - HMR
+- Redux
+- Immutable
 
 ## Execution
 ```
