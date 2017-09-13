@@ -15,5 +15,8 @@ module.exports = {
     "plugins": [
         "compat",
         "flowtype"
-    ]
-};
+    ],
+    "settings" : {
+        "polyfills" : ["fetch"]
+    }
+}
