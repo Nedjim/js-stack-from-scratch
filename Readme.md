@@ -17,6 +17,7 @@
 - HMR
 - Redux
 - Immutable
+- React router v4
 
 ## Execution
 ```
