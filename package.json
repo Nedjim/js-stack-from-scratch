@@ -54,6 +54,8 @@
     "react-dom": "^15.6.1",
     "react-hot-loader": "next",
     "react-redux": "^5.0.6",
+    "react-router": "next",
+    "react-router-dom": "next",
     "redux": "^3.7.2",
     "redux-actions": "^2.2.1"
   }
